@@ -1,0 +1,8 @@
+crewai
+langchain
+langchain-groq
+python-dotenv
+yfinance
+pandas
+pandas-ta
+duckduckgo-search
