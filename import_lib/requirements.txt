@@ -5,4 +5,4 @@ python-dotenv
 yfinance
 pandas
 pandas-ta
-duckduckgo-search
+ddgs
